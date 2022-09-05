@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-const { gql } = require("apollo-server-express");
-=======
 const { gql } = require('apollo-server-express');
->>>>>>> main
 
 const typeDefs = gql`
   type User {
